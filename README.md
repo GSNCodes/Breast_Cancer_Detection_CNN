@@ -1,5 +1,5 @@
 # Breast_Cancer_Detection_CNN
-A CNN model for detecting Breast Cancer from Images. This project was one my early attempts of applying Deep Learning(Specifically CNNs) to classification problems.
+A CNN model for detecting Breast Cancer from Images. This project was one of my early attempts of applying Deep Learning(Specifically CNNs) to classification problems.
 
 
 
@@ -22,4 +22,10 @@ I have built my model on top of the DenseNet-201 architecture. Imagenet pre-trai
 https://arxiv.org/abs/1608.06993
 
 
-![Train-Val Accuracy](image1.png)
+![Train-Val Accuracy](Accuracy.png)
+
+
+
+If you have any issues or doubts, feel free to ask them. I'll do my best to answer them. :)
+
+Happy Learning People ! Keep chasing your dreams ! ⭐️
