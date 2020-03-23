@@ -18,13 +18,16 @@ It's easy and saves us a lot of time and effort.
 ## Model
 
 I have built my model on top of the DenseNet-201 architecture. Imagenet pre-trained weights were used. (See the code)
+Since we have a small amount of data available to us, I have used data augmentation to generate some more images. 
 
 https://arxiv.org/abs/1608.06993
 
 
+## Result
+
 ![Train-Val Accuracy](Accuracy.png)
 
-
+Accuracy achieved :- 98%
 
 If you have any issues or doubts, feel free to ask them. I'll do my best to answer them. :)
 
